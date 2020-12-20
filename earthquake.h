@@ -1,6 +1,3 @@
-/** CSci-4611 Assignment 3:  Earthquake
- */
-
 #ifndef EARTHQUAKE_H_
 #define EARTHQUAKE_H_
 

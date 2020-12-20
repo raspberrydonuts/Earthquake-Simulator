@@ -1,6 +1,3 @@
-/** CSci-4611 Assignment 3:  Earthquake
- */
-
 #ifndef DATE_H_
 #define DATE_H_
 

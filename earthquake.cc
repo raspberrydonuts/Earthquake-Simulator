@@ -1,6 +1,3 @@
-/** CSci-4611 Assignment 3:  Earthquake
- */
-
 #include <sstream>
 #include "earthquake.h"
 

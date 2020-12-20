@@ -1,6 +1,3 @@
-/** CSci-4611 Assignment 3:  Earthquake
- */
-
 #ifndef QUAKEAPP_H_
 #define QUAKEAPP_H_
 
